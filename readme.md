@@ -1,3 +1,5 @@
+## Karlix-SMP guide
+
 Hello!
 
 This will guide you on joining Karlix-SMP (when it is online)

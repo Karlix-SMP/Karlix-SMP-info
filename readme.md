@@ -8,7 +8,7 @@ This will guide you on joining Karlix-SMP (when it is online)
 2. go to multiplayer and "add server"
 3. enter this url:
 
-(url)
+(wss://didactic-waffle-x5p4w79xqppp36vvv-8081.app.github.dev/)
 
 4. click Add or Add server
 5. Join!

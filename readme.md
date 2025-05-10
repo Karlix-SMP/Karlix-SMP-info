@@ -1,5 +1,4 @@
 ## Karlix-SMP guide
-
 Hello!
 
 This will guide you on joining Karlix-SMP (when it is online)
@@ -11,3 +10,6 @@ This will guide you on joining Karlix-SMP (when it is online)
 
 4. click Add or Add server
 5. Join!
+
+
+and pls yoin aur discord server"https://discord.gg/CHDaaCcm"

@@ -4,4 +4,5 @@ If you send the easter eggs, and what is written in them, you will recieve a pri
 
 REWARD TABLE:
 -Secret room (less than 1000 blocks from spawn point) - 5 Emerald blocks
+
 -The lonely sign (more than 1000 blcoks from spawn point) - 10 emerald blocks, 5 diamond blocks
